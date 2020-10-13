@@ -10,7 +10,7 @@
     <form class="caja" action="calculadora.php" method="get">
         <h1>Calculadora</h1>
        
-        <input autocomplete="off" type="text" name="numero1" value="" placeholder="ingrese un numero">
+        <input autocomplete="off" type="text" name="numero1" value="" placeholder="ingrese un numer aa">
       
         <input autocomplete="off" type="text" name="numero2" value="" placeholder="ingrese otro numero">
     
